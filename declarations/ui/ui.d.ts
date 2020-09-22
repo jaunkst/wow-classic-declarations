@@ -881,7 +881,7 @@ declare namespace WoWAPI {
 /**
  * global lua namespace
  */
-declare const _G: { [prop: string]: any };
+// declare const _G: { [prop: string]: any };
 declare const InterfaceOptionsFramePanelContainer: WoWAPI.Region;
 declare const UIParent: WoWAPI.Frame;
 
